@@ -1,0 +1,8 @@
+main: es.eliseo.AstroLive
+name: Directo
+version: 1.0
+author: Eliseo190
+
+commands:
+  directo:
+  directoadmin:
